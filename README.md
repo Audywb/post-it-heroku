@@ -10,13 +10,9 @@ module.exports = {
 }
 
 //
-npm i 
-1.>post-it-heroku>
-npm i 
-npm start 
-2.>post-it-heroku>client>
-npm i 
-npm start 
+1.>post-it-heroku>npm i & npm start, 
+2.>post-it-heroku>client>npm i & npm start ,
+นายวรนาถ บุญเอนก, นายสุดเขต  สร้อยจิตร, นายศุภฌาน์ บุดดาแพน, นายสิทธิชา ภะวันตุ
 
 
 อย่าลืมเชื่อม mongodb 
