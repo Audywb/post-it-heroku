@@ -17,9 +17,12 @@ function Home() {
 
     return (
 
-    <Grid columns={3} >
+    <Grid columns={1} >
         <Grid.Row className="page-title">
-            <h1>Recent joon post</h1>
+        <div>
+             <img style={{width:80,marginTop:20}} src="https://sv1.picz.in.th/images/2021/03/14/D1gs9W.png"/>
+             <span style={{marginLeft:4,marginTop:1,color:"grey"}}>Post it</span>
+            </div>
         </Grid.Row>
         <Grid.Row>
 

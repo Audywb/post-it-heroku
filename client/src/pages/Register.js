@@ -39,7 +39,11 @@ function Register(props) {
     return (
         <div className="form-container">
             <Form onSubmit={onSubmit} noValidate className={loading ? 'กำลังโหลด':''}>
-                <h1>Register</h1>
+            <div>
+                <img style={{width:120,marginLeft:90,marginTop:20}} src="https://sv1.picz.in.th/images/2021/03/14/D1gs9W.png"/>
+                <span style={{fontSize:30}}>Register</span>
+                <p style={{marginTop:20}}> </p>
+            </div>
                 <Form.Input
                     label="Username"
                     placeholder="Username.."
