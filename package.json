@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "node index",
-    "start": "next start -p $PORT",
-    "heroku-postbuild": "npm run serve"
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
