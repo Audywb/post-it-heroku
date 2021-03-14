@@ -16,3 +16,7 @@ module.exports = {
 
 
 อย่าลืมเชื่อม mongodb 
+
+
+
+(ตอนแรกว่าจะลองเอาขึ้น heroku ครับแต่ติด error)
